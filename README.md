@@ -10,7 +10,7 @@ This project implements a simple maze solving robot using an ESP32 board, three 
 - Smooth turning and forward movement
 - Modular and readable Arduino-style code
 
-## 🛠Hardware Used
+## Hardware Used
 
 - ESP32 Dev Board
 - 3 × HC-SR04 Ultrasonic Distance Sensors
