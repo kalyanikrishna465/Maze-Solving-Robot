@@ -52,6 +52,12 @@ This project implements a simple maze solving robot using an ESP32 board, three 
 3. Power the motors using a separate supply.
 4. Place the robot near a wall and observe its behavior.
 
+## Image 
+  <img width="399" height="398" alt="image" src="https://github.com/user-attachments/assets/d808f7ef-d8d8-47a6-a806-cdc7ef2194b2" />
+
+
+
+
 
 
 
